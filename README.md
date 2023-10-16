@@ -26,5 +26,5 @@
 
 ## ⛳ Repository
 - [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) - Godot3 Engine 독학용 플랫포머 게임 제작
-- [MinSungJeAlgorithm](https://github.com/MinSungJe/MinSungJeAlgorithm) - 백준허브 Repository(알고리즘 문제풀이 자동기록)
+- [MinSungJeAlgorithm](https://github.com/MinSungJe/MinSungJeAlgorithm) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
 
