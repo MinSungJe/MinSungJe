@@ -25,7 +25,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## ⛳ Repository
-- [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) - Godot4 Engine 독학용 뱀서라이크 게임 제작
-- [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) - Godot3 Engine 독학용 플랫포머 게임 제작
+- [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) 🔒 - Godot4 Engine 독학용 뱀서라이크 게임 제작
+- [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) 🔒 - Godot3 Engine 독학용 플랫포머 게임 제작
 - [MinSungJeAlgorithm](https://github.com/MinSungJe/MinSungJeAlgorithm) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
 
