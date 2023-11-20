@@ -25,6 +25,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## ⛳ Repository
+- [Yacht_Dice](https://github.com/MinSungJe/Yacht_Dice) - Godot4 Engine 이용 요트 다이스 게임 제작
 - [Godot2DPlatformer_Custom](https://github.com/MinSungJe/Godot2DPlatformer_Custom) - Godot3 Engine 이용 플랫포머 게임 제작 및 응용
 - [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) 🔒 - Godot4 Engine 뱀서라이크 게임 독학
 - [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) 🔒 - Godot3 Engine 플랫포머 게임 독학
