@@ -1,5 +1,5 @@
-# 👋 Hello, MinSungJe! 👋  
-[![Notion](https://img.shields.io/badge/MinSungJe%20Algorithm%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://minsungje.notion.site/1c515f77116d46b688b95c30997bcdfd?v=6bf2d97d56c045c8af35027cd7b9cfc9&pvs=4)
+# 👋 Hello, It's MinSungJe! 👋  
+[![Notion](https://img.shields.io/badge/MinSungJe%20PS%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://minsungje.notion.site/1c515f77116d46b688b95c30997bcdfd?v=6bf2d97d56c045c8af35027cd7b9cfc9&pvs=4)
 ![Discord](https://img.shields.io/badge/imSungJe-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![Naver Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:minje813@naver.com)](mailto:minje813@naver.com)  
 
