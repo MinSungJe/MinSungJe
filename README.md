@@ -30,5 +30,5 @@
 - [Godot2DPlatformer_Custom](https://github.com/MinSungJe/Godot2DPlatformer_Custom) - Godot3 Engine 이용 플랫포머 게임 제작 및 응용
 - [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) 🔒 - Godot4 Engine 뱀서라이크 게임 강의 follow
 - [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) 🔒 - Godot3 Engine 플랫포머 게임 강의 follow
-- [MinSungJeAlgorithm](https://github.com/MinSungJe/MinSungJeAlgorithm) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
+- [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
 
