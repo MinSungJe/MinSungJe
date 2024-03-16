@@ -28,8 +28,8 @@
 ![Godot](https://img.shields.io/badge/godot%20engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ## ⛳ Repository
-- [Yacht_Dice](https://github.com/MinSungJe/Yacht_Dice) - Godot4 Engine 이용 요트 다이스 게임 제작
-- [Godot2DPlatformer_Custom](https://github.com/MinSungJe/Godot2DPlatformer_Custom) - Godot3 Engine 이용 플랫포머 게임 제작 및 응용
+- [FrontEnd_Prac](https://github.com/MinSungJe/FrontEnd_Prac) - FrontEnd 개인 연습장
+- [Unity2DRPG](https://github.com/MinSungJe/Unity2DRPG) 🔒 - Unity RPG 게임 강의 follow
 - [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) 🔒 - Godot4 Engine 뱀서라이크 게임 강의 follow
 - [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) 🔒 - Godot3 Engine 플랫포머 게임 강의 follow
 - [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
