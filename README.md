@@ -28,7 +28,7 @@
 ![Godot](https://img.shields.io/badge/godot%20engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ## ⛳ Repository
-- [FrontEnd_Prac](https://github.com/MinSungJe/FrontEnd_Prac) - FrontEnd 개인 연습장
+- [Web_Prac](https://github.com/MinSungJe/Web_Prac) - Web Programming 개인 연습장
 - [Unity_RPG_Course](https://github.com/MinSungJe/Unity_RPG_Course/) 🔒 - Unity RPG 게임 강의 follow
 - [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) 🔒 - Godot4 Engine 뱀서라이크 게임 강의 follow
 - [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) 🔒 - Godot3 Engine 플랫포머 게임 강의 follow
