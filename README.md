@@ -10,16 +10,17 @@
 ### Algorithm / Problem Solving
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-### Game Engine
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ### FrontEnd
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Game Engine
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -28,10 +29,7 @@
 ![Godot](https://img.shields.io/badge/godot%20engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ## ⛳ Repository
-- [Web_Prac](https://github.com/MinSungJe/Web_Prac) - Web Programming 개인 연습장
+- [Web_Prac](https://github.com/MinSungJe/Web_Prac) - 🔒 Web Programming 개인 연습장
 - [SungPoPol25](https://github.com/MinSungJe/MinSungJe.github.io) - 포트폴리오 만들면서 FrontEnd 연습장
-- [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
-- [Unity_RPG_Course](https://github.com/MinSungJe/Unity_RPG_Course/) 🔒 - Unity RPG 게임 강의 follow
-- [Godot2DSurvivors](https://github.com/MinSungJe/Godot2DSurvivors) 🔒 - Godot4 Engine 뱀서라이크 게임 강의 follow
-- [Godot2DPlatformer](https://github.com/MinSungJe/Godot2DPlatformer) 🔒 - Godot3 Engine 플랫포머 게임 강의 follow
+- [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)\
 
