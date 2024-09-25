@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MinSungJe/Web_Prac/tree/main/TypeScript)
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### Game Engine
@@ -29,7 +30,9 @@
 ![Godot](https://img.shields.io/badge/godot%20engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ## ⛳ Repository
-- [Web_Prac](https://github.com/MinSungJe/Web_Prac) - 🔒 Web Programming 개인 연습장
+- [주피티](https://github.com/MinSungJe/2024-1-VSA-BeRich) - GPT를 활용한 주식 자동매매 모바일 App: FE 담당
+- [DNOW](https://github.com/MinSungJe/OSSProjSMJ) - 동국대학교 알리미 서비스: FE 담당
 - [SungPoPol25](https://github.com/MinSungJe/MinSungJe.github.io) - 포트폴리오 만들면서 FrontEnd 연습장
-- [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)\
+- [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
+- [Web_Prac](https://github.com/MinSungJe/Web_Prac) - 🔒 Web Programming 개인 연습장
 
