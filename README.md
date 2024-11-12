@@ -4,7 +4,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:minje813@naver.com)](mailto:minje813@naver.com)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minje813)](https://solved.ac/minje813/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSungJe&layout=compact&theme=dark&exclude_repo=MinSungJe_PS)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSungJe&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=0,2E294E,181528&exclude_repo=MinSungJe_PS)  
 
 ## 🛠 Skills
 ### Algorithm / Problem Solving
