@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSungJe&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=0,2E294E,181528&exclude_repo=MinSungJe_PS,Unity_RPG_Course,Godot2DSurvivors,Godot2DPlatformer_Custom,Godot2DPlatformer)  
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,sass,emotion,git,github,jest,nodejs,flask,docker,godot,mongodb,mysql,notion,npm,obsidian,vscode,figma,vite,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,sass,emotion,git,github,jest,nodejs,flask,docker,mongodb,mysql,notion,npm,obsidian,vscode,figma,vite,vercel,unity,godot,&perline=10)](https://skillicons.dev)
 
 ## ⛳ Repository
 
