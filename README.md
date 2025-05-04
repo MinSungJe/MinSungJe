@@ -7,21 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSungJe&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=0,2E294E,181528&exclude_repo=MinSungJe_PS,Unity_RPG_Course,Godot2DSurvivors,Godot2DPlatformer_Custom,Godot2DPlatformer)  
 
 ## 🛠 Skills
-### FrontEnd
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-### Algorithm / Problem Solving
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,sass,emotion,git,github,jest,nodejs,flask,docker,godot,mongodb,mysql,notion,npm,obsidian,vscode,figma,vite,vercel&perline=10)](https://skillicons.dev)
 
 ## ⛳ Repository
 
