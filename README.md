@@ -1,6 +1,6 @@
 # 👋 MinSungJe 👋  
 [![PS](https://img.shields.io/badge/MinSungJe%20PS%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://minsungje.notion.site/1c515f77116d46b688b95c30997bcdfd?v=6bf2d97d56c045c8af35027cd7b9cfc9&pvs=4)
-[![TS_Challenge](https://img.shields.io/badge/TS%20Challenge%20Notion-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://minsungje.notion.site/1c515f77116d46b688b95c30997bcdfd?v=6bf2d97d56c045c8af35027cd7b9cfc9&pvs=4)
+[![TS_Challenge](https://img.shields.io/badge/TS%20Challenge%20Notion-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://minsungje.notion.site/2782a24ff45880cbacaef6a392997aa3?v=2782a24ff45880a786e7000cd144e438)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minje813)](https://solved.ac/minje813/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSungJe&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=0,2E294E,181528&exclude_repo=MinSungJe_PS,Unity_RPG_Course,Godot2DSurvivors,Godot2DPlatformer_Custom,Godot2DPlatformer)  
