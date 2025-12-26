@@ -16,6 +16,5 @@
 - [Team-Sync](https://github.com/MinSungJe/2024-2-SCS4031-PocketStone-6) - 사내 데이터를 이용한 프로젝트 팀빌딩 웹 서비스
 - [주피티](https://github.com/MinSungJe/2024-1-VSA-BeRich) - GPT를 활용한 주식 자동매매 모바일 App
 - [DNOW](https://github.com/MinSungJe/OSSProjSMJ) - 동국대학교 알리미 웹 서비스
-- [민성제 놀이터](https://github.com/MinSungJe/MinSandbox) - 개인/토이 프로젝트 정리용 README
 - [MinSungJe_PS](https://github.com/MinSungJe/MinSungJe_PS) - 백준허브 Repository (알고리즘 문제풀이 자동기록)
 - [Web_Prac](https://github.com/MinSungJe/Web_Prac) - 🔒 Web Programming 개인 연습장
